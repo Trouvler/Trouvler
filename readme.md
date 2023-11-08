@@ -78,12 +78,6 @@
   <br/>
 </a>
 <br/>
-
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=rbxo98&repo=ai_medicine_collector&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/rbxo98/ai_medicine_collector.git](https://github.com/rbxo98/ai_medicine_collector.git))
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=rbxo98&repo=100mountain&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/Trouvler/al-folio](https://github.com/rbxo98/100mountain.git))
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Trouvler&repo=smartfarm_coffee_hyperledger&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/Trouvler/Trouvler](https://github.com/Trouvler/smartfarm_coffee_hyperledger))
-
 <p align="left">
   <a href="https://github.com/Trouvler?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
